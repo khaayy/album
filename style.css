@@ -1,0 +1,17 @@
+.bingkai {
+    width: 200px;
+    height: 150px;
+    border: solid 1px black;
+}
+
+.bingkai-bs {
+    width: 100%;
+    height: 250px;
+    border: solid 1px black;
+}
+
+.isi-bingkai {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
